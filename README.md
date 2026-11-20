@@ -22,6 +22,12 @@ This research examines the documented USDr backing model through primary documen
 ### Phase 2 — On-chain verification
 [Read the Phase 2 evidence report](docs/phase-2-onchain-verification.md)
 
+**Phase 3 — Pinned-block backing reconciliation**
+
+[Read the Phase 3 reconciliation report](docs/phase-3-pinned-block-reconciliation.md)
+
+[Read the Phase 3 RPC evidence transcript](evidence/phase-3-rpc-transcript.md)
+
 ## Research principles
 
 - Prefer primary documentation and directly observable on-chain evidence.
