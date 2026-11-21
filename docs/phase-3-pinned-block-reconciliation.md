@@ -158,6 +158,8 @@ The Phase 3 pinned-block reconciliation passed. At the selected historical block
 
 This result applies to one historical Rayls Mainnet block. It does not prove continuous solvency, complete reserve custody across chains, or correctness of every mint, burn, redemption, and bridge-out pathway.
 
+This research reconciles USDr supply against USDC.e held in the Rayls escrow at the pinned block. It does not independently measure the corresponding USDC locked on Ethereum for the full USDC.e supply.
+
 Phase 2 identified a second address holding `MINTER_ROLE` and an observed USDr burn of 18,026.574051066495598471 USDr. The available evidence did not conclusively link that burn to a redemption or bridge-out. These questions remain open for the subsequent control and outbound-flow investigations.
 
 ## 13. Reproduction and evidence

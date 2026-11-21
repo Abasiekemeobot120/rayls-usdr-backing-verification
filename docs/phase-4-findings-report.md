@@ -242,7 +242,7 @@ The holder then approved the controller `0x07e17e17e17e17e17e17e17e17e17e17e17e1
 
 The controller transaction was initiated by `0x6b205d256e8a153cba8057e5655db56e0e47a511` and executed successfully in transaction:
 
-`0x3e1fb4b25043bc55e208b29a601966710c6ddf2fec4edcd015b1550fb43cfa4`
+`0x3e1fb4b25043bc55e208b29a601966710c6ddf2fec4edcd015b1550fb43cfa4a`
 
 The USDr system token emitted a Transfer from the holder to the zero address for exactly 18,026.574051066495598471 USDr.
 
@@ -289,7 +289,7 @@ The persistent event/state discrepancy prevents a complete, reliable historical 
 The correction sequence included:
 
 1. A 20,000 USDC.e deposit into the configured escrow in transaction `0x802cdd6b480bfbdb02ea3c921671827b77a8582e7f03f3e1da4ceae1ee502c2c`.
-2. A successful burn of 18,026.574051066495598471 USDr in transaction `0x3e1fb4b25043bc55e208b29a601966710c6ddf2fec4edcd015b1550fb43cfa4`.
+2. A successful burn of 18,026.574051066495598471 USDr in transaction `0x3e1fb4b25043bc55e208b29a601966710c6ddf2fec4edcd015b1550fb43cfa4a`.
 
 At block 11,366,604, direct historical state showed:
 
