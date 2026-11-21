@@ -4,7 +4,7 @@
 **Network:** Rayls Mainnet  
 **Chain ID:** 72957  
 **Phase:** 4  
-**Status:** Research scope defined; investigation not yet started
+**Status:** Evidence collection complete; findings documented; historical event/state reconciliation remains unresolved
 
 ## 1. Research objective
 
@@ -109,4 +109,4 @@ Answers must be evidence-based and may include qualifications or unresolved find
 
 ## 9. Phase status
 
-Phase 4 scope defined. No new transaction investigation or independent verification has been claimed at this stage.
+Phase 4 evidence collection and the targeted investigation are complete. Findings are documented in [Phase 4 findings report](phase-4-findings-report.md). The historical event/state reconciliation discrepancy remains unresolved and is explicitly qualified in that report. No system-wide backing conclusion is claimed beyond the verified configured-escrow checkpoint.

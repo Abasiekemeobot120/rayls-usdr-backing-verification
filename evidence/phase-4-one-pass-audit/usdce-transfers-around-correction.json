@@ -1,0 +1,12 @@
+[
+  {
+    "block": 11362694,
+    "transactionHash": "0x802cdd6b480bfbdb02ea3c921671827b77a8582e7f03f3e1da4ceae1ee502c2c",
+    "logIndex": "0x0",
+    "from": "0x0e301beef8daad28f8e38d9fce09112b78fe3161",
+    "to": "0xd19a5e28fed41fa289e92ae61b9bc5bd883db0d2",
+    "amountRaw": "20000000000",
+    "amountUSDCe": "20000.000000",
+    "involvesConfiguredEscrow": true
+  }
+]
